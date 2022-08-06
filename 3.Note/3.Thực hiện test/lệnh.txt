@@ -1,0 +1,8 @@
+qcvn31th#
+qcvn31th,time0,tim1,tim2#
+// tim1 = thời gian lái xe liên tuc tính bằng phút
+// tim3 = thời gian cảnh báo trước 
+qcvn31th,250,600,15# // Thay đổi thời gian lái xe liên tục
+
+
+vehicleplate,<plate-number>#
